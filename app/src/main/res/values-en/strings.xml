@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">Momento</string>
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
@@ -41,6 +41,6 @@
     <string name="prompt_1">Prompt #1</string>
     <string name="prompt_2">Prompt #2</string>
     <string name="prompt_3">Prompt #3</string>
+    <string name="english">English</string>
     <string name="English">English</string>
-    <string name="简体中文">中文</string>
 </resources>
