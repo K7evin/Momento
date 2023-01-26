@@ -6,6 +6,13 @@
 - [Current Build](README.md#Current-Build)
 - [System Requirements](README.md#System-Requirements)
 
+## Contact
+Billy Wong bcw7@sfu.ca 
+Peter Fan peter_fan_2@sfu.ca 
+George Gu uowfss@outlook.com 
+Avleen Kaur Virdi akv6@sfu.ca 
+Kaiwen Gu kaiwen_gu@sfu.ca 
+
 
 
 ## How things work
